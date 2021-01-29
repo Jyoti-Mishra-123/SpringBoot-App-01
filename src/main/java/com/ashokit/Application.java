@@ -14,7 +14,9 @@ public class Application {
 	}
 	
 	public void displayMessage() {
-		 
+		 //changes for task 103
+		int a=10;
+		int b=20;
 		 
 	}
 
