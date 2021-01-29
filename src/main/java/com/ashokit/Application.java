@@ -10,6 +10,7 @@ public class Application {
 	public static void main(String[] args) {
 		//changes for task no 102
 		String s="jyoti";
+		String s1="mishra";
 		ConfigurableApplicationContext run = SpringApplication.run(Application.class, args);
 	}
 	
