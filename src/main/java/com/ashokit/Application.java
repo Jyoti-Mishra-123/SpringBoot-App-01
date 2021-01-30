@@ -11,6 +11,7 @@ public class Application {
 		//changes for task no 102
 		String s="jyoti";
 		String s1="mishra";
+                                  int g=90;
 		ConfigurableApplicationContext run = SpringApplication.run(Application.class, args);
 	}
 	
